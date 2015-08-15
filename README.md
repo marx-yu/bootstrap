@@ -20,3 +20,4 @@ add 6
 add 8
 add 9
 add 10
+on branch change
