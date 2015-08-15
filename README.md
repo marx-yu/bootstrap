@@ -12,5 +12,10 @@ xxx-5
 
 #add three session
 add content in new session
+<<<<<<< HEAD
 add on branch
 add 6
+=======
+\nadd on branch
+\nadd new line
+>>>>>>> 850a8442626e41c84f465bf6b02392b8047cd94e
